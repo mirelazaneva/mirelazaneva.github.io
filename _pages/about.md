@@ -17,4 +17,4 @@ My research includes both theoretical and empirical streams, such as questions a
 
 I’m also interested in meta science and neurodiversity. You can read more about my research here.
 
-Email me if you would like a copy of any of my [publications] (https://scholar.google.com/citations?user=yA4fqDoAAAAJ) or if we have shared interests.
+Email me if you would like a copy of any of my [publications](https://scholar.google.com/citations?user=yA4fqDoAAAAJ) or if we have shared interests.
