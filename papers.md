@@ -5,10 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-
-{% if site.author.googlescholar %}
- <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile</a>
 
 
 <h2>Preprints & Work Under Review</h2>
