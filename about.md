@@ -16,8 +16,5 @@ My research includes both theoretical and empirical streams, including questions
 
 I have a keen interest in new quantitative methods and often combine statistical methods from a range of disciplines, such as social epidemiology, behavioral genetics, and economics with diverse cross-sectional and longitudinal datasets. Ultimately, I hope my research will help inform effective interventions and policies in the context of poverty alleviation and global mental health.
 
-
 I’m also interested in meta-science and neurodiversity. I enjoy collaborative work and would love to hear from you if we might have common interests.
-
-- {{ mirela.zaneva@chch.ox.ac.uk }}
 
