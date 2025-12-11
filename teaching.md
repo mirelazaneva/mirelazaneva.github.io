@@ -1,0 +1,19 @@
+---
+layout: page
+title: "teaching & service"
+permalink: /teaching/
+author_profile: true
+---
+<p><b>Teaching</p></b>
+<p> I find teaching very rewarding and a great part of academic work. In my tutoring and demonstrating, I have covered a wide range of BA and MSc topics for those studying Experimental Psychology or Psychology, Philosophy, and Linguistics or Biomedical Science students including Neurophysiology, Social Psychology, Cognitive Psychology, Subsyndromal Symptoms in Psychopathology (in R), Individual Differences and Clinical Psychology. My experience lecturing is primarily at the postgraduate level, where I have generally covered clinical topics, though I have also designed and led courses at the undergraduate and pre-undergraduate levels, such as introductions to psychology and open science.</p>
+
+
+<p><b>Outreach</p></b>
+<p>I am passionate about equal access to education and have been actively involved in outreach activities for over 15 years now. I have provided lectures, workshops, mentoring to secondary and undergraduate students through initiatives such as UNIQ+, Target Oxbridge, IntoUniversity,&#160;St Anne's Access Week, Super-Curricular Club Enrichment Series, Christ Church Horizons, Oxplore and others. Some of my access materials can be found on
+ <a href="https://osf.io/7drw2/">OSF</a>. Do be in touch if I can help with an outreach activity you have in mind or are organizing.</p>
+
+
+<p><b>Service</p></b>
+
+
+<p>I am always keen to be actively involved in workplace and community life. I have a long track record of serving on various boards and committees, including as a member the People and Culture Committee (Athena SWAN), as well as the Equality, Diversity and Inclusion Committee of the Department of Experimental Psychology and as a vice chair of the of Graduate Joint Consultative Committee. I trained and volunteer within the Medical Sciences Division as a peer supporter. Outside of academic pursuits, I'm a keen photographer, love spending time outdoors, and volunteer with local conservation efforts such as through the Oxford Swift City charity.</p>
