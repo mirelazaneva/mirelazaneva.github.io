@@ -1,8 +1,8 @@
 ---
-title: Hello
+title: hello
 permalink: /about/
 layout: page
-excerpt: Hello.
+excerpt: hello.
 comments: false
 ---
 I am a scientist trained in clinical and cognitive psychology. I research how poverty and inequality affect our minds and behaviours. I currently hold an independent research fellowship (JRF) at Christ Church College, University of Oxford.
