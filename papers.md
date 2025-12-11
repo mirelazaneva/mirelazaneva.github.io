@@ -5,10 +5,10 @@ permalink: /papers/
 author_profile: true
 ---
 
-You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile</a>
+You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a>
 
 
-<h2>Preprints & Work Under Review</h2>
+<h2>Forthcoming & Preprints & Work Under Review</h2>
 <ul>
 
 
