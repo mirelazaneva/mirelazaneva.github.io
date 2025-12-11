@@ -1,5 +1,5 @@
 ---
-title: hello
+title: Hello
 permalink: /about/
 layout: page
 excerpt: hello.
