@@ -69,8 +69,8 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
     <summary><strong>Open Science, Reproducibility, Meta Science</strong></summary>
     <ul>
       <li>
-       <a href="hhttps://osf.io/preprints/metaarxiv/ad2w6_v1">
-         Hartmann, H., ...., Zaneva, M., ... et al. (Under review). Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences.
+       <a href="https://osf.io/preprints/metaarxiv/ad2w6_v1">
+         Hartmann, H., ...., Zaneva, M., ... et al. (Under review). Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences.</a>
      </li>
       <li>
        <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">
