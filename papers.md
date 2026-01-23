@@ -68,16 +68,6 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   </ul>
 </details>
 
-<h3><strong>2024</strong></h3>
-<ul>
- <li>
-<a href="https://elifesciences.org/articles/102467">Zaneva, M. et al. (2024). An annotated introductory reading list for neurodiversity. eLife.</a> [With colleagues from <a href="https://forrt.org/about/teams/">FORRT Team Neurodiversity</a>.] [<a href="https://improvingpsych.org/mission/awards/">Received SIPS Commendation Award</a>]
-</li>
- <li><a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2425689">Zaneva, M. (2024). Analytical decisions pose moral questions. Health Psychology Review. </a></li>
- <li><a href="https://gpsych.bmj.com/content/37/6/e101455">Zaneva, M., Dumbalska, T., Reeves, A., Bowes, L. (2024). What do we mean when we talk about socioeconomic status? Implications for measurement, mechanisms and interventions from a critical review on adolescent mental health. BMJ General Psychiatry. </a></li>
- <li><a href="https://openpsychologydata.metajnl.com/articles/10.5334/jopd.101"> Röseler, L., .... Zaneva, M., ... et al. (2024). The Replication Database: Documenting the Replicability of Psychological Science. Journal of Open Psychology Data. </a></li>
-</ul>
-
 
 <h3><strong>2023</strong></h3>
 <ul>
