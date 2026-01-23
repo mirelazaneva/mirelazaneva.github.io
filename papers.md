@@ -98,7 +98,7 @@ If you want to check out everything I've published or look by year, the easiest 
       </li>
       <li>
         <a href="https://openpsychologydata.metajnl.com/articles/10.5334/jopd.101">
-          Röseler, L., …. Zaneva, M., ... et al. (2024). The Replication Database…
+          Röseler, L., …. Zaneva, M., ... et al. (2024). The Replication Database: Documenting the Replicability of Psychological Science. Journal of Open Psychology Data.
         </a>
       </li>
       <li>
