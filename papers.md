@@ -5,7 +5,7 @@ permalink: /papers/
 author_profile: true
 ---
 
-If you want to check out everything I've published or look by year, the easiest place is <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a> Below is a selection of some of my work by themes.
+If you want to check out everything I've published or look by year, the easiest place to do so is <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a> Below is a selection of some of my work by themes.
 
 <details>
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
