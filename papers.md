@@ -8,16 +8,8 @@ author_profile: true
 You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a>
 
 <details open>
-<h2>Forthcoming & Preprints & Work Under Review</h2>
+  <summary><strong> Work Under Review </strong></summary>
 <ul>
-
-
-     <li>
-       Zaneva, M. (Under review). The Sex Effect: The prevalence of sex life reasons for contraceptive discontinuation. A systematic review and meta-analysis.
-       [With colleagues from <a href="https://thepleasureproject.org/">The Pleasure Project</a>, <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>, <a href="https://www.youngandalive.org/">Young and Alive</a>. For more info, see the <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=413360">preregistration</a>.]
-   </li>
-
-
    <li>
        Chow, A., Zaneva, M., et al. (Under review). Bidirectional Relationship Between Mental Health and Sports Injury in Adolescents: A
          Systematic Review and Meta-analysis.
@@ -55,7 +47,6 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
 </details>
 
 
-
 <details open>
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
   <ul>
@@ -70,7 +61,11 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
 <details open>
   <summary><strong>Sexual and Reproductive Health and Rights</strong></summary>
   <ul>
- 
+    <li>
+       Zaneva, M. et al. (2025). The Sex Effect: The prevalence of sex life reasons for contraceptive discontinuation. A systematic review and meta-analysis.
+       [With colleagues from <a href="https://thepleasureproject.org/">The Pleasure Project</a>, <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>, <a href="https://www.youngandalive.org/">Young and Alive</a>. For more info, see the <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=413360">preregistration</a>.]
+   </li>
+ <li>
    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261034">Zaneva, M. (2022). What is the added value of incorporating pleasure in sexual health interventions? A systematic review and meta-analysis. PLOS One.</a> [With colleagues from <a href="https://thepleasureproject.org/">the Pleasure Project</a>, <a href="https://thecaseforher.com/">the Case for Her</a>, and <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>.]
  </li>
   <li>
