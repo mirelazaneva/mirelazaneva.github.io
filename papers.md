@@ -7,7 +7,7 @@ author_profile: true
 
 You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a>
 
-<details open>
+<details>
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
   <ul>
     <li><a href="https://osf.io/preprints/psyarxiv/3fq7c_v1">Zaneva, M., et al. (Under review). What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</a></li>
