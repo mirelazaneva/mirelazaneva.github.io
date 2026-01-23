@@ -22,8 +22,10 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
 <details open>
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
   <ul>
+    <li><a href="https://osf.io/preprints/psyarxiv/3fq7c_v1">Zaneva, M., et al. (Under review). What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</a></li>
+    <li><a href="https://osf.io/3jyda_v1">Ruggeri, K., ..., Zaneva.M., ... et al. (Under review). Global well-being in 2025: A multidimensional analysis of mental, financial, and social health in 92 countries.</a></li>
     <li><a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2425689">Zaneva, M. (2024). Analytical decisions pose moral questions. Health Psychology Review.</a></li>
-    <li><a href="https://gpsych.bmj.com/content/37/6/e101455">Zaneva, M., Dumbalska, T., Reeves, A., Bowes, L. (2024). What do we mean when we talk about socioeconomic status? …</a></li>
+    <li><a href="https://gpsych.bmj.com/content/37/6/e101455">Zaneva, M., Dumbalska, T., Reeves, A., Bowes, L. (2024). What do we mean when we talk about socioeconomic status? General Psychiatry.</a></li>
      <li><a href="https://www.sciencedirect.com/science/article/pii/S1054139X22003329">Zaneva, M., Guzman-Holst, C., Reeves, A., Bowes, L. (2022). The Impact of Monetary Poverty Alleviation Programs on Children’s and Adolescents’ Mental Health: A Systematic Review and Meta-Analysis Across Low-, Middle-, and High-Income Countries. Journal of Adolescent Health.</a></li>
   </ul>
 </details>
@@ -79,6 +81,10 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   <details open>
     <summary><strong>Open Science, Reproducibility, Meta Science</strong></summary>
     <ul>
+      <li>
+       <a href="hhttps://osf.io/preprints/metaarxiv/ad2w6_v1">
+         Hartmann, H., ...., Zaneva, M., ... et al. (Under review). Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences.
+     </li>
       <li>
        <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">
          Brodeur, A., Valenta, D., ...., Zaneva, M., ... et al. (Under review). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.
