@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 <h3><b>Teaching</b></h3>
-<p> I find teaching very rewarding and a great part of academic work. In my tutoring and demonstrating, I have covered a wide range of BA and MSc topics for those studying Experimental Psychology or Psychology, Philosophy, and Linguistics or Biomedical Science students including Neurophysiology, Social Psychology, Cognitive Psychology, Subsyndromal Symptoms in Psychopathology (in R), Individual Differences and Clinical Psychology. My experience lecturing is primarily at the postgraduate level, where I have generally covered clinical topics, though I have also designed and led courses at the undergraduate and pre-undergraduate levels, such as introductions to psychology and open science.</p>
+<p> I find teaching very rewarding and a great part of academic work. In my tutoring and demonstrating, I have covered a wide range of BA and MSc topics for those studying Experimental Psychology or Psychology, Philosophy, and Linguistics or Biomedical Science students including Neurophysiology, Social Psychology, Cognitive Psychology, Subsyndromal Symptoms in Psychopathology (in R), Individual Differences and Clinical Psychology. My experience lecturing is primarily at the postgraduate level, where I have generally covered clinical topics, though I have also designed and led courses at the undergraduate and pre-undergraduate levels, such as introductions to psychology and open science.</p> 
 
 
 <h3><b>Outreach</b></h3>
