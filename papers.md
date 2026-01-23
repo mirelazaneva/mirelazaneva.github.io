@@ -18,7 +18,7 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   </ul>
 </details>
 
-  <details open>
+  <details>
     <summary><strong>Sexual and Reproductive Health and Rights</strong></summary>
     <ul>
       <li>
@@ -42,7 +42,7 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
     </ul>
   </details>
 
-  <details open>
+  <details>
     <summary><strong>School Experiences &amp; School-Based Interventions</strong></summary>
     <ul>
       <li>
@@ -65,7 +65,7 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
     </ul>
   </details>
 
-  <details open>
+  <details>
     <summary><strong>Open Science, Reproducibility, Meta Science</strong></summary>
     <ul>
       <li>
@@ -136,7 +136,7 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
     </ul>
   </details>
 
-  <details open>
+  <details>
     <summary><strong>Neurodiversity</strong></summary>
     <ul>
       <li>
