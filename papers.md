@@ -8,18 +8,6 @@ author_profile: true
 You can find most of papers on <a href="https://scholar.google.com/citations?hl=en&user=yA4fqDoAAAAJ">my Google Scholar profile.</a>
 
 <details open>
-  <summary><strong> Work Under Review </strong></summary>
-<ul>
-   <li>
-       Chow, A., Zaneva, M., et al. (Under review). Bidirectional Relationship Between Mental Health and Sports Injury in Adolescents: A
-         Systematic Review and Meta-analysis.
-       [With colleagues from <a href="https://thepodiuminstitute.ox.ac.uk/">The Podium Institute</a>. For more info, see the <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=374807">preregistration</a>.]
-     </li>
- </ul>
-</details>
-
-
-<details open>
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
   <ul>
     <li><a href="https://osf.io/preprints/psyarxiv/3fq7c_v1">Zaneva, M., et al. (Under review). What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</a></li>
