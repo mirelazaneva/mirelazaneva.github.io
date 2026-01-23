@@ -62,8 +62,8 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   <summary><strong>Sexual and Reproductive Health and Rights</strong></summary>
   <ul>
     <li>
-       Zaneva, M. et al. (2025). The Sex Effect: The prevalence of sex life reasons for contraceptive discontinuation. A systematic review and meta-analysis.
-       [With colleagues from <a href="https://thepleasureproject.org/">The Pleasure Project</a>, <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>, <a href="https://www.youngandalive.org/">Young and Alive</a>. For more info, see the <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=413360">preregistration</a>.]
+       <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261034">Zaneva, M. et al. (2025). The Sex Effect: The prevalence of sex life reasons for contraceptive discontinuation. A systematic review and meta-analysis. Sexual and Reproductive Health Matters</a>
+       [With colleagues from <a href="https://thepleasureproject.org/">The Pleasure Project</a>, <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>, <a href="https://www.youngandalive.org/">Young and Alive</a>.]
    </li>
  <li>
    <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0261034">Zaneva, M. (2022). What is the added value of incorporating pleasure in sexual health interventions? A systematic review and meta-analysis. PLOS One.</a> [With colleagues from <a href="https://thepleasureproject.org/">the Pleasure Project</a>, <a href="https://thecaseforher.com/">the Case for Her</a>, and <a href="https://www.who.int/teams/sexual-and-reproductive-health-and-research-(srh)/overview">WHO</a>.]
