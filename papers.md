@@ -18,7 +18,6 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   </ul>
 </details>
 
-<section id="publications">
   <details open>
     <summary><strong>Sexual and Reproductive Health and Rights</strong></summary>
     <ul>
@@ -159,4 +158,4 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
       </li>
     </ul>
   </details>
-</section>
+
