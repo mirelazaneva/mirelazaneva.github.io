@@ -15,24 +15,6 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
          Systematic Review and Meta-analysis.
        [With colleagues from <a href="https://thepodiuminstitute.ox.ac.uk/">The Podium Institute</a>. For more info, see the <a href="https://www.crd.york.ac.uk/prospero/display_record.php?RecordID=374807">preregistration</a>.]
      </li>
-     <li>
-       <a href="https://osf.io/preprints/psyarxiv/7ubk2_v1">Hu, C. ... Zaneva, M., ... et al. (Under review). Open Science in the Developing World: A Collection of Practical Guides for Researchers in Developing Countries.</a>
-     </li>
-     <li> Evans, TR., ... Zaneva, M., ... et al. (Ongoing). Open Scholarship and Feedback in Applied Research/Understanding the Role of Climate Change in Applied Research: A Qualitative Registered Report.
-       [For more info see the <a href="https://osf.io/preprints/psyarxiv/p8hb4"> stage 1 registered report.</a>]
-     </li>
-     <li>
-       <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">
-         Brodeur, A., Valenta, D., ...., Zaneva, M., ... et al. (Under review). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.
-       </a>
-       [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
-     </li>
-     <li>
-       <a href="https://www.iza.org/publications/dp/16912/mass-reproducibility-and-replicability-a-new-hope">
-         Brodeur, A., Mikola, D., ...., Zaneva, M., ... et al. (Under review). Mass Reproducibility and Replicability: A New Hope.
-       </a>
-       [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
-     </li>
  </ul>
 </details>
 
@@ -98,6 +80,25 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
     <summary><strong>Open Science, Reproducibility, Meta Science</strong></summary>
     <ul>
       <li>
+       <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">
+         Brodeur, A., Valenta, D., ...., Zaneva, M., ... et al. (Under review). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.
+       </a>
+       [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
+     </li>
+     <li>
+       <a href="https://www.iza.org/publications/dp/16912/mass-reproducibility-and-replicability-a-new-hope">
+         Brodeur, A., Mikola, D., ...., Zaneva, M., ... et al. (Under review). Mass Reproducibility and Replicability: A New Hope.
+       </a>
+       [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
+     </li>
+      <li> Evans, TR., ... Zaneva, M., ... et al. (Ongoing). Open Scholarship and Feedback in Applied Research/Understanding the Role of Climate Change in Applied Research: A Qualitative Registered Report.
+       [For more info see the <a href="https://osf.io/preprints/psyarxiv/p8hb4"> stage 1 registered report.</a>]
+     </li>
+     <li>
+       <a href="https://journals.sagepub.com/doi/full/10.1177/25152459251357565">Hu, C. ... Zaneva, M., ... et al. (2025). Open Science in the Developing World: A Collection of Practical Guides for Researchers in Developing Countries. Advances in Methods and Practices in Psychological Science.
+       </a>
+     </li>
+      <li>
         <a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2425689">
           Zaneva, M. (2024). Analytical decisions pose moral questions. Health Psychology Review.
         </a>
@@ -145,6 +146,11 @@ You can find most of papers on <a href="https://scholar.google.com/citations?hl=
   <details open>
     <summary><strong>Neurodiversity</strong></summary>
     <ul>
+      <li>
+        <a href="https://osf.io/preprints/psyarxiv/gucym_v2">
+          Friedel, E., ..., Zaneva. M. (Under review). Toward Neurodiversity-Affirming Language for ADHD.
+        </a>
+      </li>
       <li>
         <a href="https://elifesciences.org/articles/102467">
           Zaneva, M. et al. (2024). An annotated introductory reading list for neurodiversity. eLife.
