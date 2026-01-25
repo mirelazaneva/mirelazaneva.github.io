@@ -16,6 +16,9 @@
   // Initialize on page load
   initTheme(localStorage.getItem("theme"));
   
+  // Remove transition class
+  setTimeout(() => body.classList.remove("notransition"), 75);
+  
   // Theme switch
   const lamp = document.getElementById("mode");
   
@@ -32,9 +35,15 @@
   };
   
   if (lamp) {
-    lamp.addEventListener("click", () =>
-      toggleTheme(localStorage.getItem("theme"))
-    );
+    // Handle both click and touch events
+    const handleToggle = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      toggleTheme(localStorage.getItem("theme"));
+    };
+    
+    lamp.addEventListener("click", handleToggle);
+    lamp.addEventListener("touchend", handleToggle);
   }
   
   // Blur the content when the menu is open
