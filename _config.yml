@@ -12,8 +12,8 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Mirela Zaneva # author name
   bio: | 
-    Hi! Welcome to my page. 
-    I'm a JRF in Psychology at Christ Church College, University of Oxford. 
+    Hi! Welcome to my page. <br>
+    I'm a JRF in Psychology at Christ Church College, University of Oxford. <br>
     I work in global mental health.
   username: username # general username
   github: mirelazaneva # github username
