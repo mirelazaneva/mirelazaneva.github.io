@@ -8,7 +8,6 @@ layout: compress
 <script>
 const body = document.body;
 const data = body.getAttribute("data-theme");
-
 const initTheme = (state) => {
   if (state === "dark") {
     body.setAttribute("data-theme", "dark");
@@ -18,29 +17,8 @@ const initTheme = (state) => {
     localStorage.setItem("theme", data);
   }
 };
-
-// Initialize theme from localStorage
 initTheme(localStorage.getItem("theme"));
-
-// Remove the no-transition class
 setTimeout(() => body.classList.remove("notransition"), 75);
-
-// Add click handler for the mode toggle button
-window.addEventListener("load", () => {
-  const modeToggle = document.getElementById("mode");
-  if (modeToggle) {
-    modeToggle.addEventListener("click", () => {
-      const currentTheme = body.getAttribute("data-theme");
-      if (currentTheme === "dark") {
-        body.removeAttribute("data-theme");
-        localStorage.setItem("theme", "light");
-      } else {
-        body.setAttribute("data-theme", "dark");
-        localStorage.setItem("theme", "dark");
-      }
-    });
-  }
-});
 </script>
   {% include navbar.html %}
 <div class="wrapper">
@@ -51,5 +29,24 @@ window.addEventListener("load", () => {
       {% include anchor_headings.html html=content anchorClass="anchor-head" beforeHeading=true h_min=4 h_max=4 %}
 </main>
 </div>
+
+<script>
+// Add click handler for the mode toggle button
+const modeToggle = document.getElementById("mode");
+if (modeToggle) {
+  modeToggle.addEventListener("click", () => {
+    const body = document.body;
+    const currentTheme = body.getAttribute("data-theme");
+    if (currentTheme === "dark") {
+      body.removeAttribute("data-theme");
+      localStorage.setItem("theme", "light");
+    } else {
+      body.setAttribute("data-theme", "dark");
+      localStorage.setItem("theme", "dark");
+    }
+  });
+}
+</script>
+
 </body>
 </html>
