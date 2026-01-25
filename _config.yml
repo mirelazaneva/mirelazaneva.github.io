@@ -11,7 +11,8 @@ mode: dark # default theme "dark" | "light"
 # Profile settings
 author:
   name: Mirela Zaneva # author name
-  bio: >-  Hi! Welcome to my page. I'm a JRF at Christ Church in Psychology. I work in global mental health.
+  bio: >-  
+    Hi! Welcome to my page. I'm a JRF at Christ Church in Psychology. I work in global mental health.
   username: username # general username
   github: mirelazaneva # github username
   email: mzaneva@chch.ox.ac.uk # email adress
