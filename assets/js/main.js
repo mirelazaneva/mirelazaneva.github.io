@@ -35,15 +35,9 @@
   };
   
   if (lamp) {
-    // Handle both click and touch events
-    const handleToggle = (e) => {
-      e.preventDefault();
-      e.stopPropagation();
-      toggleTheme(localStorage.getItem("theme"));
-    };
-    
-    lamp.addEventListener("click", handleToggle);
-    lamp.addEventListener("touchend", handleToggle);
+    lamp.addEventListener("click", () =>
+      toggleTheme(localStorage.getItem("theme"))
+    );
   }
   
   // Blur the content when the menu is open
