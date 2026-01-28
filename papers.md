@@ -11,6 +11,7 @@ If you want to check out everything I've published or look by year, the easiest 
   <summary><strong>Poverty, Inequality, and Mental Health</strong></summary>
   <ul>
     <li><a href="https://osf.io/preprints/psyarxiv/3fq7c_v1">Zaneva, M., et al. (Under review). What difference do cash transfers make? Understanding impacts and mechanisms from cash transfer recipients and communities in Malawi and Lesotho.</a></li>
+      <li><a href="https://osf.io/preprints/psyarxiv/3g2yw_v1">Zaneva, M., et al. (Under review). The negative relationship between hunger and adolescent mental health is uncontroversial and universally present.</a></li>
     <li><a href="https://osf.io/3jyda_v1">Ruggeri, K., ..., Zaneva.M., ... et al. (Under review). Global well-being in 2025: A multidimensional analysis of mental, financial, and social health in 92 countries.</a></li>
     <li><a href="https://www.tandfonline.com/doi/full/10.1080/17437199.2024.2425689">Zaneva, M. (2024). Analytical decisions pose moral questions. Health Psychology Review.</a></li>
     <li><a href="https://gpsych.bmj.com/content/37/6/e101455">Zaneva, M., Dumbalska, T., Reeves, A., Bowes, L. (2024). What do we mean when we talk about socioeconomic status? General Psychiatry.</a></li>
