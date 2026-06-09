@@ -141,6 +141,11 @@ If you want to check out everything I've published or look by year, the easiest 
     <summary><strong>Neurodiversity</strong></summary>
     <ul>
       <li>
+        <a href="https://osf.io/preprints/psyarxiv/5sj78_v1">
+          Friedel, E., ..., Zaneva. M. (Under review). Myths About Neurodiversity: A Community Perspective.
+        </a>
+      </li>
+      <li>
         <a href="https://osf.io/preprints/psyarxiv/gucym_v2">
           Friedel, E., ..., Zaneva. M. (Under review). Toward Neurodiversity-Affirming Language for ADHD.
         </a>
