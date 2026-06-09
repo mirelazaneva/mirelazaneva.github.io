@@ -74,14 +74,14 @@ If you want to check out everything I've published or look by year, the easiest 
          Hartmann, H., ...., Zaneva, M., ... et al. (Under review). Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences.</a>
      </li>
       <li>
-       <a href="https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf">
-         Brodeur, A., Valenta, D., ...., Zaneva, M., ... et al. (Under review). Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science.
+       <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2524747123">
+         Brodeur, A., Valenta, D., ...., Zaneva, M., ... et al. (Under review). AI-assisted teams outperform AI-led teams but not human-only teams in assessing research reproducibility in quantitative social science. PNAS.
        </a>
        [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
      </li>
      <li>
-       <a href="https://www.iza.org/publications/dp/16912/mass-reproducibility-and-replicability-a-new-hope">
-         Brodeur, A., Mikola, D., ...., Zaneva, M., ... et al. (Under review). Mass Reproducibility and Replicability: A New Hope.
+       <a href="https://www.nature.com/articles/s41586-026-10251-x">
+         Brodeur, A., Mikola, D., ...., Zaneva, M., ... et al. (Under review). Reproducibility and robustness of economics and political science research. Nature.
        </a>
        [Work done with the <a href="https://i4replication.org/">Institute for Replication.</a>]
      </li>
