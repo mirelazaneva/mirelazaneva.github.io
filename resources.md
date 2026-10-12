@@ -49,7 +49,7 @@ A lightly curated list of resources I've found helpful.
 
 
 <details>
-  <summary><strong>Open and rigorous science</strong></summary>
+  <summary><strong>Open science</strong></summary>
   <ul>
     <li><a href="https://www.i4replication.org/">Institute for Replication (I4R)</a>. Joining a replication game is great for anyone who wants to have more structure and learn-by-doing, since you work in groups with others and use templated reports.</li>
     <li><a href="https://forrt.org/">FORRT</a>. A community and set of resources for teaching and learning open and reproducible research.</li>
