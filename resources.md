@@ -7,28 +7,6 @@ author_profile: true
 
 A lightly curated list of resources I've found helpful.
 
-
-<details>
-  <summary><strong>Data analysis & data viz (R)</strong></summary>
-  <ul>
-    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. A free online book on importing, tidying, transforming, and visualizing data with the tidyverse.</li>
-    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. David McCandless's visualizations, good for inspiration on how to make data presentation clear and appealing.</li>
-    <li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>. A community sharing data vizualisations, good for browsing examples.</li>
-  </ul>
-</details>
-
-
-<details>
-  <summary><strong>Open and rigorous science</strong></summary>
-  <ul>
-    <li><a href="https://www.i4replication.org/">Institute for Replication (I4R)</a>. Joining a replication game is great for anyone who wants to have more structure and learn-by-doing, since you work in groups with others and use templated reports.</li>
-    <li><a href="https://forrt.org/">FORRT</a>. A community and set of resources for teaching and learning open and reproducible research.</li>
-    <li><a href="https://improvingpsych.org/">Improving Psych</a>. A hub for efforts to improve psychological science.</li>
-    <li><a href="https://lakens.github.io/statistical_inferences/">Improving Your Statistical Inferences</a>. Daniel Lakens' free online textbook on statistics for research.</li>
-      <li><a href="https://github.com/rmcelreath/stat_rethinking_2024">Statistical Rethinking</a>. Richard McElreath's statistics course (youtube links).</li>
-  </ul>
-</details>
-
 <details>
   <summary><strong>Scientific writing</strong></summary>
   <p>The writing I admire most is clear, transparent, and accessible. 
@@ -58,6 +36,27 @@ A lightly curated list of resources I've found helpful.
   </ul>
 </details>
 
+<details>
+  <summary><strong>Data analysis & data viz (R)</strong></summary>
+  <ul>
+    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. A free online book on importing, tidying, transforming, and visualizing data with the tidyverse.</li>
+    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. David McCandless's visualizations, good for inspiration on how to make data presentation clear and appealing.</li>
+    <li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>. A community sharing data vizualisations, good for browsing examples.</li>
+    <li><a href="https://lakens.github.io/statistical_inferences/">Improving Your Statistical Inferences</a>. Daniel Lakens' free online textbook on statistics for research.</li>
+    <li><a href="https://github.com/rmcelreath/stat_rethinking_2024">Statistical Rethinking</a>. Richard McElreath's statistics course (youtube links).</li>
+  </ul>
+</details>
+
+
+<details>
+  <summary><strong>Open and rigorous science</strong></summary>
+  <ul>
+    <li><a href="https://www.i4replication.org/">Institute for Replication (I4R)</a>. Joining a replication game is great for anyone who wants to have more structure and learn-by-doing, since you work in groups with others and use templated reports.</li>
+    <li><a href="https://forrt.org/">FORRT</a>. A community and set of resources for teaching and learning open and reproducible research.</li>
+    <li><a href="https://improvingpsych.org/">Improving Psych</a>. A hub for efforts to improve psychological science.</li>
+
+  </ul>
+</details>
 
 
 <details>
