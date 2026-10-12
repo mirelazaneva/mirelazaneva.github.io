@@ -11,9 +11,9 @@ A lightly curated list of resources I've found helpful.
 <details>
   <summary><strong>Data analysis & data viz (R)</strong></summary>
   <ul>
-    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. A free online book on importing, tidying, transforming, and visualising data with the tidyverse.</li>
-    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. David McCandless's visualisations, good for inspiration on how to make data interesting.</li>
-    <li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>. A community sharing data visualisations, good for browsing examples.</li>
+    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. A free online book on importing, tidying, transforming, and visualizing data with the tidyverse.</li>
+    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. David McCandless's visualizations, good for inspiration on how to make data presentation clear and appealing.</li>
+    <li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>. A community sharing data vizualisations, good for browsing examples.</li>
   </ul>
 </details>
 
