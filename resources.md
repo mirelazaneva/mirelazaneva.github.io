@@ -14,7 +14,7 @@ A lightly curated list of resources I've found helpful.
   <ul>
     <li><a href="https://journals.sagepub.com/doi/full/10.1177/0735275117709046">Fuck Nuance</a></li>
   </ul>
-  <p>I find developing good writing easier when learning by example, so recommend reading voraciously. Here are papers I think have vivid language, great analogies, and make clear points powerfully:</p>
+  <p>I find developing good writing easier when learning by example. And so, I recommend reading voraciously. Here are papers I find have vivid language, great analogies, and make clear points powerfully:</p>
   <ul>
     <li><a href="https://myscp.onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2011.02.002">If money doesn't make you happy, then you probably aren't spending it right</a></li>
     <li><a href="https://example.com">PAPER TITLE 3</a></li>
@@ -52,8 +52,8 @@ A lightly curated list of resources I've found helpful.
   <summary><strong>Open science</strong></summary>
   <ul>
     <li><a href="https://www.i4replication.org/">Institute for Replication (I4R)</a>. Joining a replication game is great for anyone who wants to have more structure and learn-by-doing, since you work in groups with others and use templated reports.</li>
-    <li><a href="https://forrt.org/">FORRT</a>. A community and set of resources for teaching and learning open and reproducible research.</li>
-    <li><a href="https://improvingpsych.org/">Improving Psych</a>. A hub for efforts to improve psychological science.</li>
+    <li><a href="https://forrt.org/">FORRT</a>. A community and set of resources for teaching and learning open and reproducible research. Join on Slack!</li>
+    <li><a href="https://improvingpsych.org/">Improving Psych</a>. A research society & hub for efforts to improve psychological science.</li>
 
   </ul>
 </details>
