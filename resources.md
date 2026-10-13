@@ -32,10 +32,10 @@ A lightly curated list of resources I've found helpful.
 </details>
 
 <details>
-  <summary><strong>Data analysis & data viz (R)</strong></summary>
+  <summary><strong>Data analysis & data viz</strong></summary>
   <ul>
-    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. A free online book on importing, tidying, transforming, and visualizing data with the tidyverse.</li>
-    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. David McCandless's visualizations, good for inspiration on how to make data presentation clear and appealing.</li>
+    <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. Tidyverse is an absolute essential for data viz in R.</li>
+    <li><a href="https://informationisbeautiful.net/">Information is Beautiful</a>. Good for inspiration on how to make data presentation clear and appealing.</li>
     <li><a href="https://www.reddit.com/r/dataisbeautiful/">r/dataisbeautiful</a>. A community sharing data vizualisations, good for browsing examples.</li>
     <li><a href="https://lakens.github.io/statistical_inferences/">Improving Your Statistical Inferences</a>. Daniel Lakens' free online textbook on statistics for research.</li>
     <li><a href="https://github.com/rmcelreath/stat_rethinking_2024">Statistical Rethinking</a>. Richard McElreath's statistics course (youtube links).</li>
@@ -67,7 +67,7 @@ A lightly curated list of resources I've found helpful.
 </ul>
 </li>
 <li><a href="https://statmodeling.stat.columbia.edu/">Statistical Modeling, Causal Inference, and Social Science</a>. Andrew Gelman and colleagues on statistics, methods, and research practice.</li>
-<li><a href="https://gmhunboxed.substack.com/">Global Mental Health Unboxed</a>. Technically a newsletter but can't recommend it enough! Current opportunities, papers, resources in GMH.</li>
+<li><a href="https://gmhunboxed.substack.com/">Global Mental Health Unboxed</a>. Technically a newsletter but can't recommend it enough! Gergana Manolova's monthly list of current opportunities, papers, resources in GMH.</li>
 </ul>
 
 <p>These are blogs I check more sporadically but also find valuable.</p>
