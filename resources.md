@@ -9,17 +9,12 @@ A lightly curated list of resources I've found helpful.
 
 <details>
   <summary><strong>Scientific writing</strong></summary>
-  <p>The writing I admire most is clear, transparent, and accessible. 
-  Here is a paper I find helpful in terms of why we need to just get to the point:</p>
-  <ul>
-    <li><a href="https://journals.sagepub.com/doi/full/10.1177/0735275117709046">Fuck Nuance</a></li>
-  </ul>
-  <p>I find developing good writing easier when learning by example. And so, I recommend reading voraciously. Here are papers I find have vivid language, great analogies, and make clear points powerfully:</p>
-  <ul>
-    <li><a href="https://myscp.onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2011.02.002">If money doesn't make you happy, then you probably aren't spending it right</a></li>
-    <li><a href="https://example.com">PAPER TITLE 3</a></li>
-    <li><a href="https://example.com">PAPER TITLE 4</a></li>
-  </ul>
+<p>The writing I admire most is clear, transparent, and accessible. Tips I find helpful are: 1) get on a regular writing schedule, e.g. <a href="https://irp.nida.nih.gov/training/writing-resources/want-to-publish-more-then-train-like-an-athlete/">15 minutes or a paragraph a day</a>, 2) read a lot and emulate good writing, and 3) get to the point quickly (see Healy's <a href="https://journals.sagepub.com/doi/full/10.1177/0735275117709046">'Fuck Nuance'</a> paper).</p>
+<p>Here are papers I find have vivid language, great analogies, and make clear points powerfully:</p>
+<ul>
+<li><a href="https://myscp.onlinelibrary.wiley.com/doi/full/10.1016/j.jcps.2011.02.002">If money doesn't make you happy, then you probably aren't spending it right</a></li>
+<li><a href="https://www.tandfonline.com/doi/full/10.1080/21528586.2023.2253526">The Construction of Regional Masculinities as Drivers of Sexual Violence Against Women in Lesotho</a></li>
+</ul>
 </details>
 
 
