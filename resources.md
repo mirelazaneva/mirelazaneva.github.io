@@ -32,6 +32,18 @@ A lightly curated list of resources I've found helpful.
 </details>
 
 <details>
+  <summary><strong>Finding data</strong></summary>
+  <ul>
+    <li><a href="https://atlaslongitudinaldatasets.ac.uk/">Atlas of Longitudinal Datasets.</a>. Global data, excellent filtering and comparisons options. Wide mental health coverage and beyond.</li>
+    <li><a href="https://www.cataloguementalhealth.ac.uk/">Catalogue of Mental Health Measures</a>. Focus on mental health and wellbeing measures in British studies.</li>
+    <li><a href="https://ukdataservice.ac.uk/">UK Data Service platform</a>. Vast array of UK data.</li>
+    <li><a href="https://www.icpsr.umich.edu/sites/icpsr/find-data">ICPSR</a>. Many US studies, with some international ones.</li>
+      <li><a href="https://cls.ucl.ac.uk/data-access-training/exploring-our-data/">Centre for Longitudinal Studies</a>. Uk focused longitudinal studies.</li>
+  </ul>
+</details>
+
+
+<details>
   <summary><strong>Data analysis & data viz</strong></summary>
   <ul>
     <li><a href="https://r4ds.hadley.nz/">R for Data Science (2e)</a>. Tidyverse is an absolute essential for data viz in R.</li>
