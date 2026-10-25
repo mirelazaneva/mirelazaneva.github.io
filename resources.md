@@ -38,7 +38,7 @@ A lightly curated list of resources I've found helpful.
     <li><a href="https://www.cataloguementalhealth.ac.uk/">Catalogue of Mental Health Measures</a>. Focus on mental health and wellbeing measures in British studies.</li>
     <li><a href="https://ukdataservice.ac.uk/">UK Data Service platform</a>. Vast array of UK data.</li>
     <li><a href="https://www.icpsr.umich.edu/sites/icpsr/find-data">ICPSR</a>. Many US studies, with some international ones.</li>
-      <li><a href="https://cls.ucl.ac.uk/data-access-training/exploring-our-data/">Centre for Longitudinal Studies</a>. Uk focused longitudinal studies.</li>
+      <li><a href="https://cls.ucl.ac.uk/data-access-training/exploring-our-data/">Centre for Longitudinal Studies</a>. UK focused longitudinal studies.</li>
   </ul>
 </details>
 
